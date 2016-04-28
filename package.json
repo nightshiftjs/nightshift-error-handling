@@ -1,7 +1,7 @@
 {
   "name": "nightshift-error-handling",
   "description": "NightShift plugin for error handling",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "main": "src/index.js",
   "keywords": ["error handling", "plugin", "framework", "nightshift"],
   "repository": {
@@ -23,7 +23,7 @@
     "grunt-istanbul": "0.7.0",
     "grunt-jasmine-nodejs": "1.5.2",
     "lodash": "4.9.0",
-    "nightshift-core": "0.1.0",
+    "nightshift-core": "0.2.0",
     "pretty-error": "2.0.0"
   }
 }
