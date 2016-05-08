@@ -1,4 +1,15 @@
 # nightshift-error-handling
+
+[![Build Status][build]](https://travis-ci.org/nightshiftjs/nightshift-error-handling) 
+
+[![Coverage Status][coverage]](https://coveralls.io/github/nightshiftjs/nightshift-error-handling)
+ 
+[![Dependencies Status][deps]](https://david-dm.org/nightshiftjs/nightshift-error-handling)
+
+[build]: https://travis-ci.org/nightshiftjs/nightshift-error-handling.svg?branch=master
+[coverage]: https://coveralls.io/repos/github/nightshiftjs/nightshift-error-handling/badge.svg?branch=master
+[deps]: https://david-dm.org/nightshiftjs/nightshift-error-handling.svg
+
 This [NightShift](https://github.com/nightshiftjs) plugin helps you writing robust code by providing an extendable, consistent and test-friendly way of handling errors.
 
 ## About Error Handling
